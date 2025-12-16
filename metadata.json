@@ -1,0 +1,5 @@
+{
+  "name": "ChefGenie",
+  "description": "An AI-powered culinary assistant that generates detailed recipes, measurements, and nutritional info based on your available ingredients.",
+  "requestFramePermissions": []
+}
